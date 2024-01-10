@@ -11,3 +11,8 @@ footer p{
     font-size: 1.6rem;
     color: #fff;
 }
+@media (max-width:430px){
+    footer{
+        width: 430px;
+    }
+}
